@@ -4,6 +4,15 @@
 
 Created by: **Kayla Foremski**
 
+## Compile and Run Instructions
+
+unzip the submitted kForemskiCSCD467finalproject.zip, 
+you get a file named TicTacToeClient.java.
+
+To Compile: javac *.java 
+
+To Run: java TicTacToeClient
+
 ## License
 
     Copyright 2019 Kayla Foremski
