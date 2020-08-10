@@ -1,17 +1,24 @@
 # *Tic Tac Toe (AWS)*
 
-**TicTacToe-AWS** is a multiplayer Tic Tac Toe style game which uses GUI and communicates through Amazon Web Services Simple Queue Service. Skills implemented include: GUI, AWS Simple Queue Service, and Parallel Programming.
+This is a two-player Tic Tac Toe style game which uses GUI and communicates through Amazon Web Services Simple Queue Service. A player has won once they reach 5 in a row, either diagonal, vertical, or horizontal. *Skills implemented include: JFrame GUI, AWS Simple Queue Service, and Parallel Programming.* 
 
-Created by: **Kayla Foremski**
 
-## Compile and Run Instructions
+## How to Run
 
-unzip the submitted kForemskiCSCD467finalproject.zip, 
-you get a file named TicTacToeClient.java.
+You must have com.amazonaws imported before you can run. Clone folder and navigate inside.
+Two players must be present before the game will start. 
 
-To Compile: javac *.java 
+```
+$ javac *.java 
+$ java TicTacToeClient
+```
 
-To Run: java TicTacToeClient
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/5MR2O4x4pX.gif' />
+
 
 ## License
 
